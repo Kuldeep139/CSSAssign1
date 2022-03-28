@@ -1,0 +1,35 @@
+
+h2{
+  color:#e82315;
+  
+}
+h3{  
+  color: #e33124
+}
+ol{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 13px;
+    color: maroon;
+}
+.dec{
+  text-decoration: line-through;
+}
+div{
+  font-style: italic;
+  text-decoration: underline;
+}
+ul{
+  font-family:monospace;
+  font-size: 12px;
+    color: maroon;
+  letter-spacing: 2px;
+}
+p{
+  color: brown;
+  font-size: 13px;
+}
+footer{
+  color: #e33124;
+  background-color: yellow;
+  display: inline;
+}
